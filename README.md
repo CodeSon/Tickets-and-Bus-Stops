@@ -4,7 +4,7 @@ Bus Locator is an end-to-end Python-based real-time bus tracking application and
 1. This project fetches data from various bus station databases, integrating with the Google Geocoding API for precise location data.
 2. APC simulating number of passengers at each stop.
 3. Ticket types and Passenger Validation.
-4. Generating a CSV file and an Excel spreadsheet with the collected data aand finally importing the data into Power BI for analysis/Visualisation
+4. Generating a CSV file and an Excel spreadsheet with the collected data and finally importing the data into Power BI for Data modelling then analysis/Visualisation.
 
 ### Technologies Used:
 * Python
